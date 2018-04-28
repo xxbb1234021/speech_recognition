@@ -10,7 +10,7 @@
 
 ------
 
-##### 2. 训练
+##### 3. 训练
 - 配置conf目录下的conf.ini文件中的各项
 - 在终端运行 ```python train.py``` 开始训练
 - 在终端运行 ```python test.py``` 测试
@@ -18,5 +18,5 @@
 
 ------
 
-##### 3. 测试效果
+##### 4. 测试效果
 ![test-image](https://github.com/xxbb1234021/speech_recognition/blob/master/images/1.png)
